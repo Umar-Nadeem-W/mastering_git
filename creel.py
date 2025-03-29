@@ -1,4 +1,10 @@
-print("TRBD dhi FCN ICWCH RC"
-"nuireunier"
-"noooooo")
-print(10*4390)
+print("he sha ios jC"
+"for it is not a conflict"
+"CWBUOEWDH")
+
+
+
+print(5*55)
+
+
+print("we call them the flares")
