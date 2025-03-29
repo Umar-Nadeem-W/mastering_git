@@ -1,3 +1,4 @@
-for i in range(1, 10) :{
-    print(i)
-}
+print("TRBD FCN ICWCH RC"
+"DWEHBWBUBDW"
+"CWBUOEWDH")
+print(10*4390)
