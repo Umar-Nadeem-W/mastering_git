@@ -29,4 +29,8 @@ to the premise that
 pakistan is the land of refugees. we
 shall not be divided by hate and 
 otherization. we all of us stand
+<<<<<<< HEAD
 together.
+=======
+together.
+>>>>>>> b57b5e2b2b044f78bebd39a7ac4f417026973f1a
